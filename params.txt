@@ -1,0 +1,19 @@
+params = 
+
+  struct with fields:
+
+          mass: 0.1800
+             I: [3×3 double]
+          invI: [3×3 double]
+       gravity: 9.8100
+    arm_length: 0.0860
+          minF: 0
+          maxF: 3.5316
+
+   1.0e-03 *
+
+    0.2500         0    0.0026
+         0    0.2320         0
+    0.0026         0    0.3738
+
+###Copied from Aerial Robotics Course
