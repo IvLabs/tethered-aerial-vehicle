@@ -13,11 +13,13 @@ This paper looks into the case where the actuated winch controls the length of t
  - The cable is taut throughout the process
 
 
+<img src="https://render.githubusercontent.com/render/math?math={\color{white}T(t) > 0 \hspace{0.5cm} \forall t \geq0}">
+<img src="https://render.githubusercontent.com/render/math?math={\color{white}T(t) = T(r(t),\alpha(t),\theta(t) \hspace{0.3cm}is}">
+<img src="https://render.githubusercontent.com/render/math?math={\color{white}T = mr\dot{\alpha}^{2} -mgsin\alpha + sin(\alpha + \theta)u_1 - m\ddot{r}}">
 
-
-$T(t) > 0 \hspace{0.5cm} \forall t \geq0$
+<!-- $T(t) > 0 \hspace{0.5cm} \forall t \geq0$
 $T(t) = T(r(t),\alpha(t),\theta(t) \hspace{0.3cm}is$
-$T = mr\dot{\alpha}^{2} -mgsin\alpha + sin(\alpha + \theta)u_1 - m\ddot{r}$
+$T = mr\dot{\alpha}^{2} -mgsin\alpha + sin(\alpha + \theta)u_1 - m\ddot{r}$ -->
 
 
 
@@ -37,7 +39,9 @@ Under these two assumptions, dynamics of UAV can be formulated as:
 ![](https://i.imgur.com/GX4PoZT.png)
 
 **Trajectory of UAV**
+
 ![](https://i.imgur.com/vNRT51F.png)
 
 **Simulation**
+
 ![](https://i.imgur.com/Gx5SN9A.gif)
