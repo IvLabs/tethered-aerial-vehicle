@@ -1,1 +1,0 @@
-# tethered-aerial-vehicle
