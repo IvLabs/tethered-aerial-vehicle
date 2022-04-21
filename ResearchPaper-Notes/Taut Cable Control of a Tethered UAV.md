@@ -3,12 +3,13 @@
 ###### tags: `ResearchPaperNotes`
 
 ## Model Dynamics
-There are three control inputs($u$<sub>1</sub>, $u$<sub>2</sub> & $u$<sub>3</sub>) and two actuators($f$<sub>1</sub> & $f$<sub>2</sub>).
+There are three control inputs <img src="https://render.githubusercontent.com/render/math?math={\color{white}u_{1}\hspace{.3cm} u_{2} \hspace{.3cm} u_{3}}">  and two actuators <img src="https://render.githubusercontent.com/render/math?math={\color{white}f_{1}\hspace{.3cm} f_{2}}">.
 
 
-![](https://i.imgur.com/aq3krNg.png =300x400)
+![](https://i.imgur.com/aq3krNg.png )
 
 
+<!-- <img src="https://render.githubusercontent.com/render/math?math={\color{white}u_1 = f_1 + f_2}"> -->
 $u$<sub>1</sub> = $f$<sub>1</sub>+$f$<sub>2</sub>
 $u$<sub>2</sub> = ($f$<sub>1</sub>-$f$<sub>2</sub>)$b$
 
@@ -98,10 +99,12 @@ From eqn 20, we finally get ${u_1}$.
 
 Therefore $u_1$ and $u_3$ are reduced to single control system.
 The system (4) subject to constraint (2) will be true only if the attainable configuration is 
+
 ![](https://i.imgur.com/qDS6oZQ.png)
 
 
 and the tension is 
+
 ![](https://i.imgur.com/SUSOi2T.png)
 
 
