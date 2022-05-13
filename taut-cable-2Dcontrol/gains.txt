@@ -1,0 +1,33 @@
+when intial conditions are 
+r=1, theta= pi/15 , alpha= pi/8
+
+and desired postion is 
+r=1 , theta = -pi/32, alpha= 9*pi/10
+
+kP_alpha = 6
+kD_alpha = 5
+
+
+#equation 24
+kP_theta = 1
+kD_theta = 3
+kD_r= 6
+kP_r= 6
+
+########################################
+when intial conditions are 
+r=1, theta= pi/15 , alpha= pi/8
+
+and desired postion is 
+r=10 , theta = -pi/32, alpha= 9*pi/10
+
+
+kP_alpha = 6
+kD_alpha = 1
+
+#equation 24
+kP_theta = 30
+kD_theta = 1
+kP_r=6
+kD_r= 1
+
