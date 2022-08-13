@@ -38,7 +38,7 @@ Assumptions:
 - The cable force is assumed to be constant
 - Human and drone have the same velocity and follow a constant velocity trajectory
 - The product of proportional gain and error in robot position is assumed to be constant
-- 
+
 ![](https://i.imgur.com/olVXXKu.png)
 ![](https://i.imgur.com/vJ7eqiU.png)
 ![](https://i.imgur.com/rR8vUqC.png)
