@@ -2,8 +2,6 @@
 
 
 
-Implementation of the paper [Human-State-Aware Controller for a Tethered Aerial
-Robot Guiding a Human by Physical Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9684670) by Mike Allenspach et al.
 
 ## Objectives
  - To aid a human in navigating from one position to another, using a tethered aerial vehicle.
