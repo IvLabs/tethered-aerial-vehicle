@@ -1,6 +1,6 @@
 # Human State Aware Controller For a Tethered UAV
 
-###### tags: `Github README`
+
 
 Implementation of the paper [Human-State-Aware Controller for a Tethered Aerial
 Robot Guiding a Human by Physical Interaction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9684670) by Mike Allenspach et al.
