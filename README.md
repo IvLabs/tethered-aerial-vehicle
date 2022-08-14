@@ -19,7 +19,7 @@ Implementation of 2D Taut Cable Controller
 ## Results
 
 
-## Steady State Solution
+### Steady State Solution
 
 Assumptions:
 - Human changes his direction in accordance with the direction of cable force.
@@ -43,7 +43,7 @@ Assumptions:
 
 **Another method proposed by the paper was**
 
-## Steady State Solution under Constant Control Input
+### Steady State Solution under Constant Control Input
 Assumptions:
 - The cable force is assumed to be constant
 - Human and drone have the same velocity and follow a constant velocity trajectory
@@ -59,7 +59,7 @@ Assumptions:
 
 **We thought of combining these two approaches into a Hybrid approach**
 
-## Hybrid Control
+### Hybrid Control
 Assumptions:
 - For initial 50 seconds, it is assumed that the product of proportional gain and error in robot position is large and considered to be constant. For the rest of simulation time the steady state approach assumptions are taken into account.
     
