@@ -7,6 +7,15 @@
  - To aid a human in navigating from one position to another, using a tethered aerial vehicle.
  - To propose a human-state-aware controller for this system.
 
+## Contents
+* [Research Paper Notes](ResearchPaper-Notes)    
+Research Papers we read during this project    
+* [Human State Aware 3D Control](human-state-aware-3Dcontrol)    
+Implementation of the 3D Human State Aware Controller
+* [Taut Cable 2D Control](taut-cable-2Dcontrol)    
+Implementation of 2D Taut Cable Controller
+
+
 ## Results
 
 
